@@ -17,7 +17,7 @@ The model was trained and evaluated using the MIT-BIH Arrhythmia Database, a wid
 
 
 ## References
-This project is an implementation is inspired by the paper:  
+This project is an implementation inspired by the paper:  
 U. Rajendra Acharya, Shu Lih Oh, Yuki Hagiwara, Jen Hong Tan, Muhammad Adam, Arkadiusz Gertych, Ru San Tan (2017)
 "A deep convolutional neural network model to classify heartbeats"
 
