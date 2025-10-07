@@ -9,7 +9,7 @@ The five categories of heartbeats identified in the study are:
 5. Unknown (Q): Heartbeats that cannot be classified into the above categories due to noise or other factors.
 
 DATASET:
-The model was trained and evaluated using the MIT-BIH Arrhythmia Database, a widely used dataset in ECG research. This dataset contains 48 half-hour excerpts of two-channel ambulatory ECG recordings, with annotations for various types of arrhythmic events. The data was preprocessed to remove high-frequency noise and artificially augmented to balance the number of instances across the five classes.
+The model was trained and evaluated using the MIT-BIH Arrhythmia Database (https://physionet.org/content/mitdb/1.0.0/), a widely used dataset in ECG research. This dataset contains 48 half-hour excerpts of two-channel ambulatory ECG recordings, with annotations for various types of arrhythmic events. The data was preprocessed to remove high-frequency noise and artificially augmented to balance the number of instances across the five classes.
 
 
 
